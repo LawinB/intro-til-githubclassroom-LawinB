@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class car
+{
+    public string brand { get; set; }
+    public string model { get; set; }
+    public string year { get; set; }
+    public string corlor { get; set; }
+}
