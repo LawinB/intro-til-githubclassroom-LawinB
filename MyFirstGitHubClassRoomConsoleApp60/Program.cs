@@ -1,4 +1,4 @@
-﻿public class car
+﻿public class demo
 {
     public string brand { get; set; }
     public string model { get; set; }
